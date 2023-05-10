@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AES Encrypter</string>
+    <string name="enter_the_key">Enter the key</string>
+    <string name="enter_the_message">Enter The Message</string>
+    <string name="encrypt_the_message">Encrypt the message</string>
+    <string name="decrypt_the_message">Decrypt the message</string>
+    <string name="developer">Developer</string>
+    <string name="pinch_to_zoom">pinch to zoom</string>
+    <string name="rupesh_bagde">Rupesh Bagde</string>
+    <string name="android_application_developer">Android Application Developer</string>
+    <string name="value">Value</string>
+</resources>

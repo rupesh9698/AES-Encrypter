@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconExtension">
+        <ignore path="src/main/res/drawable/logo.jpg" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/developer.jpg" />
+        <ignore path="src/main/res/drawable/facebook.png" />
+        <ignore path="src/main/res/drawable/instagram.png" />
+        <ignore path="src/main/res/drawable/logo.jpg" />
+        <ignore path="src/main/res/drawable/softbackground.jpeg" />
+        <ignore path="src/main/res/drawable/twitter.png" />
+    </issue>
+    <issue id="UnusedResources">
+        <ignore path="src/main/res/drawable/logo.jpg" />
+    </issue>
+</lint>
